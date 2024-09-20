@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>To Do List</title>
+    <meta name="viewport" content="width=device, initial-scale=1">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
+    <div class="container">
+        <div class="to-do-list">
+            <h2>To-Do List <img src="images/todoicon.png" alt="img1"></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Enter your task here">
+                <input type="date" id="input-date">
+                <button type="button" onclick="addTask()">Add</button>
+            </div>
+            <ul id="list-container">
+                <!-- Dynamic Task List -->
+            </ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
