@@ -1,4 +1,4 @@
-# Advanced To-Do List Application
+# Sorted To-Do List Application
 
 This To-Do List Application is a simple web-based tool that allows users to add, remove, and sort tasks based on due dates. With a responsive and user friendly design created using pure HTML/CSS/JAVASCRIPT.
 
